@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac06a4f0.chunk.css",
+    "main.js": "/static/js/main.e4578c24.chunk.js",
+    "main.js.map": "/static/js/main.e4578c24.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ac9daf9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ac9daf9.js.map",
+    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
+    "static/js/2.5ca8a99c.chunk.js": "/static/js/2.5ca8a99c.chunk.js",
+    "static/js/2.5ca8a99c.chunk.js.map": "/static/js/2.5ca8a99c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.ac06a4f0.chunk.css.map": "/static/css/main.ac06a4f0.chunk.css.map",
+    "static/js/2.5ca8a99c.chunk.js.LICENSE.txt": "/static/js/2.5ca8a99c.chunk.js.LICENSE.txt",
+    "static/media/banner.4d8fce34.png": "/static/media/banner.4d8fce34.png",
+    "static/media/heart.a32df70d.svg": "/static/media/heart.a32df70d.svg",
+    "static/media/plush.f62ff079.webp": "/static/media/plush.f62ff079.webp",
+    "static/media/tom.45b5dbf6.png": "/static/media/tom.45b5dbf6.png",
+    "static/media/turkey.6d3736c9.svg": "/static/media/turkey.6d3736c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac9daf9.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.5ca8a99c.chunk.js",
+    "static/css/main.ac06a4f0.chunk.css",
+    "static/js/main.e4578c24.chunk.js"
+  ]
+}
